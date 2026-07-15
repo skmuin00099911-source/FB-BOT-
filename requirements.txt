@@ -1,1 +1,1 @@
-pyTelegramBotAPI
+worker: python main.py
